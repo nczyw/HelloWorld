@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n"; 
-	//bnyt kc 
+	//分支1测试，看看是不是正确的
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
